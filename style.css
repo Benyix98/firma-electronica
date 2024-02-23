@@ -1,0 +1,43 @@
+/*elementos css*/
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin-left: 110px;
+    margin-right: 350px;
+    height: 350px;
+    background-color: #E3206A;
+
+}
+h2{
+    font-family: "Bebas Neue", sans-serif; peso de fuente: 400; estilo de fuente: normal;
+}
+p{
+    font-size: medium;
+    padding-right: 300px;
+    font-family: "Poppins", sans-serif; peso de fuente: 400; estilo de fuente: normal;
+    
+}
+/*class y id */
+.descrip{
+    text-align: justify;
+}
+.foto{
+    height: 350px;
+    width: 330px;
+    float: left;
+    border: 7px solid #fff;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+#contacto{
+    margin-top: 10px;
+}
+#instagram{
+    margin-top: 10px;
+}#twitter{
+    margin-top: 10px;
+}#git{
+    margin-top: 10px;
+}
